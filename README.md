@@ -6,5 +6,12 @@ SihirEK mobil uygulamasının 2.0 versiyonlu sürümüdür. Genel olarak arayüz
 
 Expo Snack ile geliştirilmiştir. Klonlamak veya üzerinde değişiklik yapmak için [SihirEKv2](https://snack.expo.dev/@emrekayik/sihirekv2) adresine gidiniz.
 
-Uygulamamdan ekran görüntüsü
-[Ekran Görüntüsü](./assets/screenshot.jpeg)
+ 
+
+### Uygulamamızın ekran görüntüsü
+
+<img alt="uygulamanın ekran görüntüsü" src="./assets/screenshot.jpeg" width="300">
+
+### Uygulamayı build almak için
+
+[Expo](https://expo.dev) dokümanlarını takip edin.
